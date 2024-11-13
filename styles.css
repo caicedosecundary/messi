@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(to bottom, red, blue);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+    gap: 15em;
+    border-bottom: 5px solid #fff;
+}
+
+.messi-bebe {
+    border-radius: 50%;
+}
+
+.title {
+    color: #fff;
+}
+
+.title h1 {
+    font-size: 3em;
+}
+
+section h2 {
+    color: #fff;
+    font-size: 2em;
+    margin: 1.5em;
+}
+
+section p {
+    font-weight: 900;
+    color: #fff;
+    font-size: 1.1em;
+    margin: 2em;
+    text-decoration:underline;
+    line-height: 1.25;
+}
+
+section img {
+    max-width: 40em;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    margin: 2em;
+}
